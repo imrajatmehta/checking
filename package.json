@@ -1,0 +1,22 @@
+{
+  "name": "checking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imrajatmehta/checking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imrajatmehta/checking/issues"
+  },
+  "homepage": "https://github.com/imrajatmehta/checking#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
